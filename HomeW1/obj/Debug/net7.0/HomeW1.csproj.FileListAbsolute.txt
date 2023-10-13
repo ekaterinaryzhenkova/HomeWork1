@@ -1,0 +1,28 @@
+C:\Users\Екатерина\source\repos\HomeW1\HomeW1\obj\Debug\net7.0\HomeW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Екатерина\source\repos\HomeW1\HomeW1\obj\Debug\net7.0\HomeW1.AssemblyInfoInputs.cache
+C:\Users\Екатерина\source\repos\HomeW1\HomeW1\obj\Debug\net7.0\HomeW1.AssemblyInfo.cs
+C:\Users\Екатерина\source\repos\HomeW1\HomeW1\obj\Debug\net7.0\HomeW1.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\source\repos\HomeW1\HomeW1\bin\Debug\net7.0\HomeW1.exe
+C:\Users\Екатерина\source\repos\HomeW1\HomeW1\bin\Debug\net7.0\HomeW1.deps.json
+C:\Users\Екатерина\source\repos\HomeW1\HomeW1\bin\Debug\net7.0\HomeW1.runtimeconfig.json
+C:\Users\Екатерина\source\repos\HomeW1\HomeW1\bin\Debug\net7.0\HomeW1.dll
+C:\Users\Екатерина\source\repos\HomeW1\HomeW1\bin\Debug\net7.0\HomeW1.pdb
+C:\Users\Екатерина\source\repos\HomeW1\HomeW1\obj\Debug\net7.0\HomeW1.dll
+C:\Users\Екатерина\source\repos\HomeW1\HomeW1\obj\Debug\net7.0\refint\HomeW1.dll
+C:\Users\Екатерина\source\repos\HomeW1\HomeW1\obj\Debug\net7.0\HomeW1.pdb
+C:\Users\Екатерина\source\repos\HomeW1\HomeW1\obj\Debug\net7.0\HomeW1.genruntimeconfig.cache
+C:\Users\Екатерина\source\repos\HomeW1\HomeW1\obj\Debug\net7.0\ref\HomeW1.dll
+C:\Users\Екатерина\Documents\repos\java homeworks\HomeWork1\HomeW1\bin\Debug\net7.0\HomeW1.exe
+C:\Users\Екатерина\Documents\repos\java homeworks\HomeWork1\HomeW1\bin\Debug\net7.0\HomeW1.deps.json
+C:\Users\Екатерина\Documents\repos\java homeworks\HomeWork1\HomeW1\bin\Debug\net7.0\HomeW1.runtimeconfig.json
+C:\Users\Екатерина\Documents\repos\java homeworks\HomeWork1\HomeW1\bin\Debug\net7.0\HomeW1.dll
+C:\Users\Екатерина\Documents\repos\java homeworks\HomeWork1\HomeW1\bin\Debug\net7.0\HomeW1.pdb
+C:\Users\Екатерина\Documents\repos\java homeworks\HomeWork1\HomeW1\obj\Debug\net7.0\HomeW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Екатерина\Documents\repos\java homeworks\HomeWork1\HomeW1\obj\Debug\net7.0\HomeW1.AssemblyInfoInputs.cache
+C:\Users\Екатерина\Documents\repos\java homeworks\HomeWork1\HomeW1\obj\Debug\net7.0\HomeW1.AssemblyInfo.cs
+C:\Users\Екатерина\Documents\repos\java homeworks\HomeWork1\HomeW1\obj\Debug\net7.0\HomeW1.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Documents\repos\java homeworks\HomeWork1\HomeW1\obj\Debug\net7.0\HomeW1.dll
+C:\Users\Екатерина\Documents\repos\java homeworks\HomeWork1\HomeW1\obj\Debug\net7.0\refint\HomeW1.dll
+C:\Users\Екатерина\Documents\repos\java homeworks\HomeWork1\HomeW1\obj\Debug\net7.0\HomeW1.pdb
+C:\Users\Екатерина\Documents\repos\java homeworks\HomeWork1\HomeW1\obj\Debug\net7.0\HomeW1.genruntimeconfig.cache
+C:\Users\Екатерина\Documents\repos\java homeworks\HomeWork1\HomeW1\obj\Debug\net7.0\ref\HomeW1.dll
