@@ -2,46 +2,38 @@
 
 class Program
 {
+
+    static int InputCheck()
+    {
+        int result = 0; 
+
+        while(!int.TryParse(Console.ReadLine(), out result))
+        {
+            Console.WriteLine("Повторите попытку");
+        }
+
+        return result;
+    }
+
     static void Main() 
     {
         Bag studentBag = new Bag(0, 0, 10);
-        Student student = new Student("Иван", 20, studentBag);
+        Student student = new ("Иван", 20, studentBag);
         int pieces = 0;
         int bottles = 0;
 
-        while (true)
-        {
-            Console.WriteLine("Введите количество кусков пиццы:");
-            pieces = int.Parse(Console.ReadLine());
-
-            if (pieces < 0 || pieces > 40)
-            {
-                continue;
-            }
-
-            break;
-        }
-
-        while (true)
-        {
-            Console.WriteLine("Введите количество бутылок пива:");
-            bottles = int.Parse(Console.ReadLine());
-
-            if (bottles < 0 || bottles > 40)
-            {
-                continue;
-            }
-
-            break;
-        }
+        Console.WriteLine("Введите количество кусков пиццы:");
+        pieces = InputCheck();
+            
+        Console.WriteLine("Введите количество бутылок пива:");
+        bottles = InputCheck();
 
         if (!student.StudentBag.AddPizza(pieces))
         {
             Console.WriteLine("Не удалось добавить столько кусков пиццы, сумка переполнена");
             return;
         }
-
-       
+    
         if (!student.StudentBag.AddBeer(bottles))
         {
             Console.WriteLine("Не удалось добавить столько банок пива, сумка переполнена");
