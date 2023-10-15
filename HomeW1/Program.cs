@@ -3,19 +3,20 @@
 class Program
 {
 
-    static int InputCheck()
+    static int InputCheck(string input)
     {
-        int result = 0; 
+        int result = 0;
 
-        while(!int.TryParse(Console.ReadLine(), out result))
+        while(!int.TryParse(input, out result))
         {
             Console.WriteLine("Повторите попытку");
+            input = Console.ReadLine();
         }
 
         return result;
     }
 
-    static void Main() 
+    static void Main()
     {
         Bag studentBag = new Bag(0, 0, 10);
         Student student = new ("Иван", 20, studentBag);
@@ -23,17 +24,17 @@ class Program
         int bottles = 0;
 
         Console.WriteLine("Введите количество кусков пиццы:");
-        pieces = InputCheck();
-            
+        pieces = InputCheck(Console.ReadLine());
+
         Console.WriteLine("Введите количество бутылок пива:");
-        bottles = InputCheck();
+        bottles = InputCheck(Console.ReadLine());
 
         if (!student.StudentBag.AddPizza(pieces))
         {
             Console.WriteLine("Не удалось добавить столько кусков пиццы, сумка переполнена");
             return;
         }
-    
+
         if (!student.StudentBag.AddBeer(bottles))
         {
             Console.WriteLine("Не удалось добавить столько банок пива, сумка переполнена");
@@ -45,4 +46,3 @@ class Program
         Console.WriteLine($"Степень алкогольного опьянения: {student.CountDrunk()}");
     }
 }
-    
